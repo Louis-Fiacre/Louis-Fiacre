@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Louis-Fiacre
 - 👀 I’m working in digital humanities
-- 🌱 I’m currently learning Python and R
-- 📫 How to reach me louis-fiacre.franchet.d.esperey@chartes.psl.eu
+- 🌱 I’m currently PhD student at Sorbonne Université LETTRES (ED19), ObTIC and LIP6 (UMR7606)
+- 📫 How to reach me : louis-fiacre.franchet_d_esperey@etu.sorbonne-universite.fr
