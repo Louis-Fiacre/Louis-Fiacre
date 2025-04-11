@@ -7,3 +7,4 @@
 
 ![apple](https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white)
 ![zed](https://img.shields.io/badge/Zed-white?style=for-the-badge&logo=zedindustries&logoColor=084CCF)
+![helix editor](https://raw.githubusercontent.com/helix-editor/helix/master/logo_light.svg)
